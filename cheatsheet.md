@@ -1,12 +1,12 @@
 #Javascript
-<br>
+
 ##5 Primitives:
   1. boolean (true, false)
   2. numbers
   3. strings/text
   4. null - intentionally left valueless
   5. undefined - value yet to be defined
-<br>
+
 ##Functions:
   - contains a block of statements that performs a set of operations
   - can be defined but not used until called
@@ -18,45 +18,45 @@
   - condole.log()= displays already set value in browser
   - arguments - variables inside function that you can change to produce different values, within brackets
   - parameters - what you set values as (maybe need clarification?)
-<br>
+
 ##Loops:
   - loops allow you to repeat and iterate over time
   - for - run for iterated period of time; always have 3 parts: initialization, conditional, post-loop increments
   - while - continue only if condition is met
-<br>
+
 ##Conditionals:
   - if, else, elseif statements
   - determines which code to run if certain conditions met
-<br>
+
 ##Variables:
   - file pieces of data under a name
   - can be changed
   - are dependent on scope
   - must be initiated by keyword "var"
-<br>
+
 ##Alerts and Prompts:
   - interactive
   - require user to respond
   - good for testing
   - natively returns a string
-<br>
+
 ##Scope:
   - scope is the context and availability; extent of influence a variable has
   - global = accessible anywhere in the code
   - local = defined and accessible only within the function; when defined inside function, this is called hiding
   - variables defined in a local function can override a global variable
   - when a global variable is named inside a function without reassignment it with var, then it can override a variable with same name outside of function, this is called hoisting
-<br>
+
 ##String concatenation:
   - combining characters and variables ex: "Hello " + yourName
   - have to add in spacing after a string, such as "Hello " or as own string added in between, such as num1 + " " + num2
-<br>
+
 ##Methods (string, integer):
   - Note: all strings really an array
   - .charAt() - finds position of character in an array
   - .parseInt() - converts a string argument to an integer
   - .toString() - converts to a string
   - See [link] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index)
-<br>
+
 ##Math operators:
   - See [link] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
