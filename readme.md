@@ -1,2 +1,2 @@
-#JS Cheatsheet
-##Our table's cheatsheet for javascript
+###JS Cheatsheet
+Our table's cheatsheet for javascript
